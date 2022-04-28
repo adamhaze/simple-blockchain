@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.collective.basic.BlockchainTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-03-18T00:42:38" hostname="econ2-197-149-dhcp.int.colorado.edu" time="0.066">
+  <properties/>
+  <testcase name="isValid_HashIncorrect" classname="test.collective.basic.BlockchainTest" time="0.035"/>
+  <testcase name="isNotValid_whenManyAreNotMined" classname="test.collective.basic.BlockchainTest" time="0.004"/>
+  <testcase name="isNotValid_forIncorrectPreviousHash" classname="test.collective.basic.BlockchainTest" time="0.013"/>
+  <testcase name="size" classname="test.collective.basic.BlockchainTest" time="0.002"/>
+  <testcase name="isNotValid_whenOneIsNotMined" classname="test.collective.basic.BlockchainTest" time="0.002"/>
+  <testcase name="isEmpty" classname="test.collective.basic.BlockchainTest" time="0.002"/>
+  <testcase name="isMined" classname="test.collective.basic.BlockchainTest" time="0.003"/>
+  <testcase name="isValid" classname="test.collective.basic.BlockchainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
